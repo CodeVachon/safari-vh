@@ -1,0 +1,25 @@
+{
+  "name": "@codevachon/safari-vh",
+  "version": "0.0.0",
+  "description": "Testing safari VH solutions",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^13.0.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "typescript": "^4.8.4",
+    "tailwindcss": "^3.2.1",
+    "postcss": "^8.4.18",
+    "autoprefixer": "^10.4.13",
+    "prettier": "^2.7.1",
+    "@codevachon/classnames": "^1.2.0",
+    "prettier-plugin-tailwindcss": "^0.1.13",
+    "@types/node": "^18.11.9",
+    "@types/react": "^18.0.25",
+    "@types/react-dom": "^18.0.8"
+  }
+}
